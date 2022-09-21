@@ -1,0 +1,9 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: Domain
+metadata:
+  name: test
+  title: Virtual test domain
+  description: try out ADRs in this domain
+spec:
+  owner: architecture
