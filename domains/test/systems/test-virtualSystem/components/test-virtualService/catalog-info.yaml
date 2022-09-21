@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: test-virtualService
+  description: virtual service to test plugins with github
+  annotations:
+    backstage.io/adr-location: docs/adrs
+spec:
+  type: service
+  lifecycle: production
+  owner: architecture
+  system: test-virtualSystem
