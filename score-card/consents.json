@@ -15,7 +15,7 @@
     {
       "id": 2199,
       "title": "Code",
-      "scorePercent": 90,
+      "scorePercent": 88,
       "scoreSuccess": "success",
       "scoreEntries": [
         {
@@ -49,7 +49,7 @@
         {
           "id": 2153,
           "title": "Application Insights",
-          "scorePercent": 80,
+          "scorePercent": 77,
           "scoreSuccess": [
             "AppInsights configured",
             "Dashboard present"
@@ -61,7 +61,7 @@
     {
       "id": 3937,
       "title": "Documentation",
-      "scorePercent": 75,
+      "scorePercent": 73,
       "scoreSuccess": "almost-success",
       "scoreEntries": [
         {
@@ -76,7 +76,7 @@
           "id": 3940,
           "title": "Project wiki",
           "isOptional": false,
-          "scorePercent": 50,
+          "scorePercent": 55,
           "scoreSuccess": "partial",
           "scoreHints": "Somewhat usefull: 50%",
           "details": "Project wiki contains basic information however it is not well structured. It contains brief introduction and few pages about the technology used, but it is missing business context, processes description etc."
